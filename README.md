@@ -20,7 +20,9 @@
 ## 🛠 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,excel,tableau" />
+  <img src="https://skillicons.dev/icons?i=python,sql,excel,tableau" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45"/>
 </p>
 
 - Python (Pandas, NumPy, Matplotlib)  
