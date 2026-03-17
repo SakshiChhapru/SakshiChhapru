@@ -18,14 +18,18 @@
 ---
 
 ## 🛠 Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=python,sql,excel" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,excel,tableau" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" height="48"/>
 </p>
 
 - Python (Pandas, NumPy, Matplotlib)  
 - SQL  
 - Excel  
-- Power BI / Tableau  
+- Power BI  
+- Tableau  
 - Jupyter Notebook  
 
 ---
