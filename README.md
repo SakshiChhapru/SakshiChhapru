@@ -41,8 +41,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi_Chhapru&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi_Chhapru&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=SakshiChhapru&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiChhapru&layout=compact" />
 </p>
 
 ---
