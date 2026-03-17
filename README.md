@@ -21,8 +21,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,sql,excel,tableau" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
-  <img src="https://img.icons8.com/fluency/48/jupyter.png" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45"/>
 </p>
 
 - Python (Pandas, NumPy, Matplotlib)  
