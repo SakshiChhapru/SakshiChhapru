@@ -46,14 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SakshiChhapru&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiChhapru&layout=compact" />
-</p>
-
----
-
 ## 📫 Connect With Me
 <p>
 <a href="www.linkedin.com/in/sakshi-chhapru-1b863a349">LinkedIn</a> • 
