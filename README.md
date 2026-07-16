@@ -48,7 +48,7 @@
 
 ## 📫 Connect With Me
 <p>
-<a href="www.linkedin.com/in/sakshi-chhapru-1b863a349">LinkedIn</a> • 
+<a href="https://www.linkedin.com/in/sakshi-chhapru/">LinkedIn</a> • 
 <a href="mailto: sakshichhapru9@gmail.com">Email</a>
 </p>
 
